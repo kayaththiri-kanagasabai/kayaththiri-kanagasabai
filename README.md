@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Vector DBs**
 
-- 👯 I’m looking to collaborate on [FullStackProject](https://github.com/kayaththiri-kanagasabai/React-foodorderpage)
+- 👯 I’m looking to collaborate on [Frontend Project](https://github.com/kayaththiri-kanagasabai/React-foodorderpage)
 
 - 🤝 I’m looking for help with [Education Website](https://github.com/kayaththiri-kanagasabai/Edusity-project-01)
 
